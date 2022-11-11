@@ -1,5 +1,5 @@
  # olá, meu nome é joao lucavei &#128075;
--&#129445; eu sou dos participantes do pensamento computacional
+- &#129445; eu sou dos participantes do pensamento computacional
 - &#127979; eu sou um aluno do colegio estadual rio do couro
 - eu estou realizando esse projeto da escola sozinho.
 - &#128187; eu espero aprender muito com essas aulas de pensamento computacional
