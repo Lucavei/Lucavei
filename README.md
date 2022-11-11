@@ -5,7 +5,7 @@
 - &#128187; eu espero aprender muito com essas aulas de pensamento computacional
 esse é um dos projetos que eu fiz nessas aulas{}(https://github.com/Lucavei/padariajoao.git)
 
-- !{}(https://t.ctcdn.com.br/JyYOtyrVhIK_AagtBY2lKWT4otg=/135x0:1858x971/512x288/smart/filters:format(webp)/i329956.jpeg)
+![image](https://user-images.githubusercontent.com/108933804/201336669-9683c9d0-9928-4db2-bdb6-3c2fb8a1c008.png)
 
 - 'essa aulas são bem legais e divertidas, ate quando não funciona'
 <!---
